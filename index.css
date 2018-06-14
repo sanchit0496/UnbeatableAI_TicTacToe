@@ -1,0 +1,14 @@
+.info{
+    background-color: wheat;
+    padding:2%;
+    border-bottom-color: white;
+    border-bottom-width: 8px;
+    border-bottom-style: solid;
+    text-align: center;
+}
+info h1{
+    font-size: 375%;
+}
+body{
+    background-color: whitesmoke;
+}
